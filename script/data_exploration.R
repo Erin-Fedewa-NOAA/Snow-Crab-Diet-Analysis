@@ -19,6 +19,7 @@ crab_diet <- read.csv("./output/diet_haul_FA_master.csv")
 ####################################
 #Diet plots
   #Note: each sample ID is associated with a PCR replicate (usually two, sometimes more)
+    #These are generally averaged, but were not for prelim figure development 
 
 crab_diet %>%
   ggplot(aes(x=Sample_ID, y=reads, fill=assigned_taxon_class)) +
@@ -33,7 +34,7 @@ crab_diet %>%
 ggsave("./figures/data exploration/seq_reads.png")
 
 crab_diet %>%
-  filter(ReadsPerSample > 1000) %>%
+  filter(ReadsPerSample > 1000) %>% #these very minor reads are usually just background noise
   ggplot(aes(x=Sample_ID, y=read_prop, fill=assigned_taxon_class)) +
   geom_bar(stat = "identity") +
   theme_bw() +
@@ -45,7 +46,7 @@ crab_diet %>%
     legend.title = element_blank(),
     legend.text = element_text(size = 6)) +
   scale_fill_manual(values=as.vector(kelly(n=14))) 
-ggsave("./figures/data exploration/prop_reads.png")
+ggsave("./figures/data exploration/prop_reads.png", width = 6, height = 6)
 
 ###################
 #Maps 
