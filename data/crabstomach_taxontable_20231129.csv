@@ -1,0 +1,2078 @@
+Sample_ID,taxon,taxonomic_level,assigned_taxon_class,reads,extraction_ID,primer,PCR_replicate,alternative_ID,collection_year,collection_month,collection_day,location3,sample_type
+e02801-1-18S,Actinopteri,class,Actinopteri,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Agaricales,order,Fungi,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Agaricomycetes,class,Fungi,1286,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Amylocorticium cebennense,species,Fungi,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Ascomycota,phylum,Fungi,160,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Basidiomycota,phylum,Fungi,320,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Cercozoa,phylum,Imbricatea,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Chaetoceros,genus,Bacillariophyceae,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,190,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Curvibasidium,genus,Fungi,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Cyranomonas australis,species,Imbricatea,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Decapoda,order,Decapod,16185.76854,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Dichomitus squalens,species,Fungi,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Gastropoda,class,Gastropoda,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Mammalia,class,Mammalia,181,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Mataza hastifera,species,Thecofilosea,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Pleurocybella porrigens,species,Fungi,1261,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Polychaeta,class,Polychaeta,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Schizoporaceae,family,Fungi,973,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Thaumatomonadida,order,Imbricatea,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Tremellales,order,Fungi,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,Triparmaceae,family,Bolidophyceae,0,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-1-18S,NA,NA,NA,13,e02801,18S,1,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Actinopteri,class,Actinopteri,101,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Agaricales,order,Fungi,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Agaricomycetes,class,Fungi,403,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Amylocorticium cebennense,species,Fungi,618,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Ascomycota,phylum,Fungi,137,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Basidiomycota,phylum,Fungi,704,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Cercozoa,phylum,Imbricatea,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Chaetoceros,genus,Bacillariophyceae,87.21079016,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Curvibasidium,genus,Fungi,3651,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Cyranomonas australis,species,Imbricatea,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Decapoda,order,Decapod,14256.2303,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Dichomitus squalens,species,Fungi,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Gastropoda,class,Gastropoda,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Mammalia,class,Mammalia,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Mataza hastifera,species,Thecofilosea,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Pleurocybella porrigens,species,Fungi,292,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Polychaeta,class,Polychaeta,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Schizoporaceae,family,Fungi,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Thaumatomonadida,order,Imbricatea,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Tremellales,order,Fungi,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,Triparmaceae,family,Bolidophyceae,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02801-2-18S,NA,NA,NA,0,e02801,18S,2,162-28,2022,12,2,Haul 3,sample
+e02802-1-18S,Actinopteri,class,Actinopteri,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Agaricales,order,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Agaricomycetes,class,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Amylocorticium cebennense,species,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Ascomycota,phylum,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Auranticordis quadriverberis,species,Imbricatea,32,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Basidiomycota,phylum,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Cercozoa,phylum,Imbricatea,12,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Chaetoceros,genus,Bacillariophyceae,569.2801896,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,39,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Curvibasidium,genus,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Cyranomonas australis,species,Imbricatea,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Decapoda,order,Decapod,25947.29264,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Dichomitus squalens,species,Fungi,66,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Gastropoda,class,Gastropoda,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Mamiellaceae,family,Mamiellophyceae,14,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Mammalia,class,Mammalia,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Mataza hastifera,species,Thecofilosea,22,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Pleurocybella porrigens,species,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Polychaeta,class,Polychaeta,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Schizoporaceae,family,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Strombidium biarmatum,species,Spirotrichea,86,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Thaumatomonadida,order,Imbricatea,33,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,13,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Tremellales,order,Fungi,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,Triparmaceae,family,Bolidophyceae,0,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-1-18S,NA,NA,NA,118,e02802,18S,1,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Actinopteri,class,Actinopteri,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Agaricales,order,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Agaricomycetes,class,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Amylocorticium cebennense,species,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Ascomycota,phylum,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Auranticordis quadriverberis,species,Imbricatea,20,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Basidiomycota,phylum,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Cercozoa,phylum,Imbricatea,16,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Chaetoceros,genus,Bacillariophyceae,459.3769055,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,8,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Curvibasidium,genus,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Cyranomonas australis,species,Imbricatea,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Decapoda,order,Decapod,25508.70188,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Dichomitus squalens,species,Fungi,44,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Esquamula lacrimiformis,species,Imbricatea,17,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Gastropoda,class,Gastropoda,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Mammalia,class,Mammalia,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Mataza hastifera,species,Thecofilosea,11,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Pleurocybella porrigens,species,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Polychaeta,class,Polychaeta,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Schizoporaceae,family,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Strombidium biarmatum,species,Spirotrichea,56,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Thaumatomonadida,order,Imbricatea,23,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Tremellales,order,Fungi,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,Triparmaceae,family,Bolidophyceae,0,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02802-2-18S,NA,NA,NA,94,e02802,18S,2,162-35,2022,12,2,Haul 4,sample
+e02803-1-18S,Actinopteri,class,Actinopteri,73,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Agaricales,order,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Agaricomycetes,class,Fungi,2442,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Amylocorticium cebennense,species,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Ascomycota,phylum,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Basidiomycota,phylum,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Cercozoa,phylum,Imbricatea,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Chaetoceros,genus,Bacillariophyceae,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Curvibasidium,genus,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Cyranomonas australis,species,Imbricatea,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Decapoda,order,Decapod,3322.328427,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Dichomitus squalens,species,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Gastropoda,class,Gastropoda,23847,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Mammalia,class,Mammalia,265,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Mataza hastifera,species,Thecofilosea,17,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Pleurocybella porrigens,species,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Polychaeta,class,Polychaeta,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Schizoporaceae,family,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Thaumatomonadida,order,Imbricatea,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Tremellales,order,Fungi,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,Triparmaceae,family,Bolidophyceae,0,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-1-18S,NA,NA,NA,238,e02803,18S,1,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Actinopteri,class,Actinopteri,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Agaricales,order,Fungi,99,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Agaricomycetes,class,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Amylocorticium cebennense,species,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Ascomycota,phylum,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Basidiomycota,phylum,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Cercozoa,phylum,Imbricatea,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Chaetoceros,genus,Bacillariophyceae,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Curvibasidium,genus,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Cyranomonas australis,species,Imbricatea,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Decapoda,order,Decapod,5299.29697,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Dichomitus squalens,species,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Gastropoda,class,Gastropoda,11891,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Mammalia,class,Mammalia,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Mataza hastifera,species,Thecofilosea,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Pleurocybella porrigens,species,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Polychaeta,class,Polychaeta,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Schizoporaceae,family,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Thaumatomonadida,order,Imbricatea,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Tremellales,order,Fungi,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,Triparmaceae,family,Bolidophyceae,0,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02803-2-18S,NA,NA,NA,677,e02803,18S,2,162-31,2022,12,2,Haul 4,sample
+e02804-1-18S,Actinopteri,class,Actinopteri,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Agaricales,order,Fungi,628,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Agaricomycetes,class,Fungi,710,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Amylocorticium cebennense,species,Fungi,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Ascomycota,phylum,Fungi,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Auranticordis quadriverberis,species,Imbricatea,4232,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Basidiomycota,phylum,Fungi,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Cercozoa,phylum,Imbricatea,1552,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Chaetoceros,genus,Bacillariophyceae,1436.978617,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Curvibasidium,genus,Fungi,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Cyranomonas australis,species,Imbricatea,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Decapoda,order,Decapod,5633.247908,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Dichomitus squalens,species,Fungi,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Gastropoda,class,Gastropoda,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Mammalia,class,Mammalia,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Mataza hastifera,species,Thecofilosea,1677,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Pleurocybella porrigens,species,Fungi,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Polychaeta,class,Polychaeta,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Schizoporaceae,family,Fungi,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Strombidium biarmatum,species,Spirotrichea,163,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Thaumatomonadida,order,Imbricatea,196,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Tremellales,order,Fungi,1927,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,Triparmaceae,family,Bolidophyceae,0,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-1-18S,NA,NA,NA,828,e02804,18S,1,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Actinopteri,class,Actinopteri,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Agaricales,order,Fungi,98,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Agaricomycetes,class,Fungi,3007,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Amylocorticium cebennense,species,Fungi,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Ascomycota,phylum,Fungi,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,771,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Auranticordis quadriverberis,species,Imbricatea,1484,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Basidiomycota,phylum,Fungi,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Cercozoa,phylum,Imbricatea,3582,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Chaetoceros,genus,Bacillariophyceae,611.0383658,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Curvibasidium,genus,Fungi,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Cyranomonas australis,species,Imbricatea,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Decapoda,order,Decapod,7559.500722,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Dichomitus squalens,species,Fungi,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Gastropoda,class,Gastropoda,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Mammalia,class,Mammalia,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Mataza hastifera,species,Thecofilosea,30,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Pleurocybella porrigens,species,Fungi,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Polychaeta,class,Polychaeta,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Schizoporaceae,family,Fungi,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Strombidium biarmatum,species,Spirotrichea,880,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Thaumatomonadida,order,Imbricatea,764,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Tremellales,order,Fungi,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,Triparmaceae,family,Bolidophyceae,0,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02804-2-18S,NA,NA,NA,2853,e02804,18S,2,162-17,2022,12,7,Haul 2,sample
+e02805-1-18S,Actinopteri,class,Actinopteri,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Agaricales,order,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Agaricomycetes,class,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Amylocorticium cebennense,species,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Ascomycota,phylum,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Basidiomycota,phylum,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Cercozoa,phylum,Imbricatea,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Chaetoceros,genus,Bacillariophyceae,8.312792006,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,4,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Curvibasidium,genus,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Cyranomonas australis,species,Imbricatea,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Decapoda,order,Decapod,26925.43059,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Dichomitus squalens,species,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Esquamula lacrimiformis,species,Imbricatea,4,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Gastropoda,class,Gastropoda,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Mammalia,class,Mammalia,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Mataza hastifera,species,Thecofilosea,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Pleurocybella porrigens,species,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Polychaeta,class,Polychaeta,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Schizoporaceae,family,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Thaumatomonadida,order,Imbricatea,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Tremellales,order,Fungi,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,Triparmaceae,family,Bolidophyceae,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-1-18S,NA,NA,NA,0,e02805,18S,1,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Actinopteri,class,Actinopteri,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Agaricales,order,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Agaricomycetes,class,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Amylocorticium cebennense,species,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Ascomycota,phylum,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Basidiomycota,phylum,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Cercozoa,phylum,Imbricatea,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Chaetoceros,genus,Bacillariophyceae,2.70630563,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,10,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Curvibasidium,genus,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Cyranomonas australis,species,Imbricatea,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Decapoda,order,Decapod,31320.86436,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Dichomitus squalens,species,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Esquamula lacrimiformis,species,Imbricatea,7,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Gastropoda,class,Gastropoda,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Mammalia,class,Mammalia,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Mataza hastifera,species,Thecofilosea,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Pleurocybella porrigens,species,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Polychaeta,class,Polychaeta,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Schizoporaceae,family,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Thaumatomonadida,order,Imbricatea,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Tremellales,order,Fungi,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,Triparmaceae,family,Bolidophyceae,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02805-2-18S,NA,NA,NA,0,e02805,18S,2,162-188,2022,12,7,Haul 186,sample
+e02806-1-18S,Actinopteri,class,Actinopteri,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Agaricales,order,Fungi,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Agaricomycetes,class,Fungi,995,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Amylocorticium cebennense,species,Fungi,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Ascomycota,phylum,Fungi,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Basidiomycota,phylum,Fungi,633,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Cercozoa,phylum,Imbricatea,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Chaetoceros,genus,Bacillariophyceae,3.591583399,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Curvibasidium,genus,Fungi,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Cyranomonas australis,species,Imbricatea,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Decapoda,order,Decapod,30334.37893,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Dichomitus squalens,species,Fungi,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Gastropoda,class,Gastropoda,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Mammalia,class,Mammalia,240,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Mataza hastifera,species,Thecofilosea,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Pleurocybella porrigens,species,Fungi,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Polychaeta,class,Polychaeta,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Schizoporaceae,family,Fungi,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Thaumatomonadida,order,Imbricatea,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Tremellales,order,Fungi,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,Triparmaceae,family,Bolidophyceae,0,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-1-18S,NA,NA,NA,32,e02806,18S,1,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Actinopteri,class,Actinopteri,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Agaricales,order,Fungi,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Agaricomycetes,class,Fungi,366,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Amylocorticium cebennense,species,Fungi,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Ascomycota,phylum,Fungi,29,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Basidiomycota,phylum,Fungi,167,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Cercozoa,phylum,Imbricatea,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Chaetoceros,genus,Bacillariophyceae,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Curvibasidium,genus,Fungi,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Cyranomonas australis,species,Imbricatea,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Decapoda,order,Decapod,28298.08283,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Dichomitus squalens,species,Fungi,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Gastropoda,class,Gastropoda,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Mammalia,class,Mammalia,25,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Mataza hastifera,species,Thecofilosea,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Pleurocybella porrigens,species,Fungi,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Polychaeta,class,Polychaeta,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Schizoporaceae,family,Fungi,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Thaumatomonadida,order,Imbricatea,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Tremellales,order,Fungi,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,Triparmaceae,family,Bolidophyceae,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02806-2-18S,NA,NA,NA,0,e02806,18S,2,162-30,2022,12,7,Haul 3,sample
+e02807-1-18S,Actinopteri,class,Actinopteri,29,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Agaricales,order,Fungi,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Agaricomycetes,class,Fungi,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Amylocorticium cebennense,species,Fungi,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Ascomycota,phylum,Fungi,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Auranticordis quadriverberis,species,Imbricatea,928,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Basidiomycota,phylum,Fungi,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Cercozoa,phylum,Imbricatea,1305,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Chaetoceros,genus,Bacillariophyceae,1775.786857,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Curvibasidium,genus,Fungi,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Cyranomonas australis,species,Imbricatea,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Decapoda,order,Decapod,37057.74257,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Dichomitus squalens,species,Fungi,1419,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Ebria tripartita,species,Ebriophyceae,67,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Gastropoda,class,Gastropoda,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Mamiellaceae,family,Mamiellophyceae,225,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Mammalia,class,Mammalia,13,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Mataza hastifera,species,Thecofilosea,264,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Pleurocybella porrigens,species,Fungi,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Polychaeta,class,Polychaeta,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Schizoporaceae,family,Fungi,24,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Thaumatomonadida,order,Imbricatea,325,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Tremellales,order,Fungi,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,Triparmaceae,family,Bolidophyceae,0,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-1-18S,NA,NA,NA,1746,e02807,18S,1,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Actinopteri,class,Actinopteri,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Agaricales,order,Fungi,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Agaricomycetes,class,Fungi,191,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Amylocorticium cebennense,species,Fungi,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Ascomycota,phylum,Fungi,111,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Auranticordis quadriverberis,species,Imbricatea,771,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Basidiomycota,phylum,Fungi,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Cercozoa,phylum,Imbricatea,594,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Chaetoceros,genus,Bacillariophyceae,489.293558,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Curvibasidium,genus,Fungi,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Cyranomonas australis,species,Imbricatea,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Decapoda,order,Decapod,22687.34921,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Dichomitus squalens,species,Fungi,348,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Ebria tripartita,species,Ebriophyceae,72,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Esquamula lacrimiformis,species,Imbricatea,22,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Gastropoda,class,Gastropoda,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Mammalia,class,Mammalia,75,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Mataza hastifera,species,Thecofilosea,327,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Pleurocybella porrigens,species,Fungi,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Polychaeta,class,Polychaeta,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Schizoporaceae,family,Fungi,14,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Thaumatomonadida,order,Imbricatea,145,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Tremellales,order,Fungi,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,Triparmaceae,family,Bolidophyceae,0,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02807-2-18S,NA,NA,NA,814,e02807,18S,2,162-3,2022,12,8,Haul 1,sample
+e02808-2-18S,Actinopteri,class,Actinopteri,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Agaricales,order,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Agaricomycetes,class,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Amylocorticium cebennense,species,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Ascomycota,phylum,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Basidiomycota,phylum,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Cercozoa,phylum,Imbricatea,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Chaetoceros,genus,Bacillariophyceae,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Curvibasidium,genus,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Cyranomonas australis,species,Imbricatea,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Decapoda,order,Decapod,13495.0557,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Dichomitus squalens,species,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Gastropoda,class,Gastropoda,11,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Mammalia,class,Mammalia,643,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Mataza hastifera,species,Thecofilosea,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Pleurocybella porrigens,species,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Polychaeta,class,Polychaeta,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Schizoporaceae,family,Fungi,11727,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Thaumatomonadida,order,Imbricatea,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Tremellales,order,Fungi,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,Triparmaceae,family,Bolidophyceae,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02808-2-18S,NA,NA,NA,0,e02808,18S,2,162-20,2022,12,8,Haul 2,sample
+e02809-1-18S,Actinopteri,class,Actinopteri,74,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Agaricales,order,Fungi,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Agaricomycetes,class,Fungi,927,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Amylocorticium cebennense,species,Fungi,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Ascomycota,phylum,Fungi,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Basidiomycota,phylum,Fungi,51,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Cercozoa,phylum,Imbricatea,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Chaetoceros,genus,Bacillariophyceae,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Curvibasidium,genus,Fungi,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Cyranomonas australis,species,Imbricatea,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Decapoda,order,Decapod,14560.41212,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Dichomitus squalens,species,Fungi,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Gastropoda,class,Gastropoda,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Mammalia,class,Mammalia,60,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Mataza hastifera,species,Thecofilosea,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Pleurocybella porrigens,species,Fungi,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Polychaeta,class,Polychaeta,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Schizoporaceae,family,Fungi,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Thaumatomonadida,order,Imbricatea,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Tremellales,order,Fungi,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,Triparmaceae,family,Bolidophyceae,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-1-18S,NA,NA,NA,0,e02809,18S,1,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Actinopteri,class,Actinopteri,49,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Agaricales,order,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Agaricomycetes,class,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Amylocorticium cebennense,species,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Ascomycota,phylum,Fungi,1613,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Basidiomycota,phylum,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Cercozoa,phylum,Imbricatea,664,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Chaetoceros,genus,Bacillariophyceae,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Curvibasidium,genus,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Cyranomonas australis,species,Imbricatea,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Decapoda,order,Decapod,19740.24675,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Dichomitus squalens,species,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Gastropoda,class,Gastropoda,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Mammalia,class,Mammalia,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Mataza hastifera,species,Thecofilosea,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Pleurocybella porrigens,species,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Polychaeta,class,Polychaeta,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Schizoporaceae,family,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Thaumatomonadida,order,Imbricatea,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Tremellales,order,Fungi,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,Triparmaceae,family,Bolidophyceae,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02809-2-18S,NA,NA,NA,0,e02809,18S,2,162-29,2022,12,8,Haul 3,sample
+e02810-1-18S,Actinopteri,class,Actinopteri,24,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Agaricales,order,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Agaricomycetes,class,Fungi,4049,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Amylocorticium cebennense,species,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Ascomycota,phylum,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Basidiomycota,phylum,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Cercozoa,phylum,Imbricatea,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Chaetoceros,genus,Bacillariophyceae,7.918800941,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Curvibasidium,genus,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Cyranomonas australis,species,Imbricatea,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Decapoda,order,Decapod,3459.457431,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Dichomitus squalens,species,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Gastropoda,class,Gastropoda,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Mammalia,class,Mammalia,264,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Mataza hastifera,species,Thecofilosea,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Pleurocybella porrigens,species,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Polychaeta,class,Polychaeta,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Schizoporaceae,family,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Thaumatomonadida,order,Imbricatea,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Tremellales,order,Fungi,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,Triparmaceae,family,Bolidophyceae,0,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-1-18S,NA,NA,NA,60,e02810,18S,1,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Actinopteri,class,Actinopteri,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Agaricales,order,Fungi,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Agaricomycetes,class,Fungi,71,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Amylocorticium cebennense,species,Fungi,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Ascomycota,phylum,Fungi,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Basidiomycota,phylum,Fungi,2239,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Cercozoa,phylum,Imbricatea,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Chaetoceros,genus,Bacillariophyceae,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Curvibasidium,genus,Fungi,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Cyranomonas australis,species,Imbricatea,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Decapoda,order,Decapod,26084.96883,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Dichomitus squalens,species,Fungi,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Gastropoda,class,Gastropoda,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Mammalia,class,Mammalia,2823,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Mataza hastifera,species,Thecofilosea,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Pleurocybella porrigens,species,Fungi,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Polychaeta,class,Polychaeta,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Schizoporaceae,family,Fungi,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Thaumatomonadida,order,Imbricatea,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Tremellales,order,Fungi,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,Triparmaceae,family,Bolidophyceae,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02810-2-18S,NA,NA,NA,0,e02810,18S,2,162-18,2022,12,8,Haul 2,sample
+e02811-1-18S,Actinopteri,class,Actinopteri,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Agaricales,order,Fungi,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Agaricomycetes,class,Fungi,52,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Amylocorticium cebennense,species,Fungi,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Ascomycota,phylum,Fungi,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Auranticordis quadriverberis,species,Imbricatea,741,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Basidiomycota,phylum,Fungi,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Cercozoa,phylum,Imbricatea,1585,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Chaetoceros,genus,Bacillariophyceae,3956.139276,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,281,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Curvibasidium,genus,Fungi,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,1359,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Cyranomonas australis,species,Imbricatea,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Decapoda,order,Decapod,8665.696392,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Dichomitus squalens,species,Fungi,1594,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Ebria tripartita,species,Ebriophyceae,127,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Esquamula lacrimiformis,species,Imbricatea,2639,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Gastropoda,class,Gastropoda,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Mammalia,class,Mammalia,4,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Mataza hastifera,species,Thecofilosea,318,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Pleurocybella porrigens,species,Fungi,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Polychaeta,class,Polychaeta,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Schizoporaceae,family,Fungi,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Strombidium biarmatum,species,Spirotrichea,1674,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Thaumatomonadida,order,Imbricatea,549,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Tremellales,order,Fungi,0,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,Triparmaceae,family,Bolidophyceae,18,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-1-18S,NA,NA,NA,3061,e02811,18S,1,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Actinopteri,class,Actinopteri,15,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Agaricales,order,Fungi,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Agaricomycetes,class,Fungi,2,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Amylocorticium cebennense,species,Fungi,7,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Ascomycota,phylum,Fungi,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Auranticordis quadriverberis,species,Imbricatea,557,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Basidiomycota,phylum,Fungi,28,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Cercozoa,phylum,Imbricatea,1008,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Chaetoceros,genus,Bacillariophyceae,3189.160318,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,164,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Curvibasidium,genus,Fungi,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,882,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Cyranomonas australis,species,Imbricatea,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Decapoda,order,Decapod,6551.016739,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Dichomitus squalens,species,Fungi,1179,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Ebria tripartita,species,Ebriophyceae,26,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Esquamula lacrimiformis,species,Imbricatea,1822,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Gastropoda,class,Gastropoda,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Mamiellaceae,family,Mamiellophyceae,12,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Mammalia,class,Mammalia,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Mataza hastifera,species,Thecofilosea,178,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Pleurocybella porrigens,species,Fungi,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Polychaeta,class,Polychaeta,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Schizoporaceae,family,Fungi,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Strombidium biarmatum,species,Spirotrichea,1135,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Thaumatomonadida,order,Imbricatea,431,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Tremellales,order,Fungi,0,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,Triparmaceae,family,Bolidophyceae,12,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02811-2-18S,NA,NA,NA,2390,e02811,18S,2,162-4,2022,12,8,Haul 1,sample
+e02812-1-18S,Actinopteri,class,Actinopteri,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Agaricales,order,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Agaricomycetes,class,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Amylocorticium cebennense,species,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Ascomycota,phylum,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Basidiomycota,phylum,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Cercozoa,phylum,Imbricatea,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Chaetoceros,genus,Bacillariophyceae,37.52764042,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Curvibasidium,genus,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Cyranomonas australis,species,Imbricatea,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Decapoda,order,Decapod,25264.33968,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Dichomitus squalens,species,Fungi,6,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Esquamula lacrimiformis,species,Imbricatea,19,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Gastropoda,class,Gastropoda,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Mamiellaceae,family,Mamiellophyceae,3,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Mammalia,class,Mammalia,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Mataza hastifera,species,Thecofilosea,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Pleurocybella porrigens,species,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Polychaeta,class,Polychaeta,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Schizoporaceae,family,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Thaumatomonadida,order,Imbricatea,6,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Tremellales,order,Fungi,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,Triparmaceae,family,Bolidophyceae,0,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-1-18S,NA,NA,NA,25,e02812,18S,1,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Actinopteri,class,Actinopteri,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Agaricales,order,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Agaricomycetes,class,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Amylocorticium cebennense,species,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Ascomycota,phylum,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Basidiomycota,phylum,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Cercozoa,phylum,Imbricatea,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Chaetoceros,genus,Bacillariophyceae,52.58779797,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Curvibasidium,genus,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Cyranomonas australis,species,Imbricatea,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Decapoda,order,Decapod,24756.59423,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Dichomitus squalens,species,Fungi,17,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Gastropoda,class,Gastropoda,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Mamiellaceae,family,Mamiellophyceae,6,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Mammalia,class,Mammalia,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Mataza hastifera,species,Thecofilosea,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Pleurocybella porrigens,species,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Polychaeta,class,Polychaeta,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Schizoporaceae,family,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Thaumatomonadida,order,Imbricatea,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Tremellales,order,Fungi,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,Triparmaceae,family,Bolidophyceae,0,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02812-2-18S,NA,NA,NA,51,e02812,18S,2,162-16,2022,12,14,Haul 2,sample
+e02813-1-18S,Actinopteri,class,Actinopteri,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Agaricales,order,Fungi,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Agaricomycetes,class,Fungi,825,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Amylocorticium cebennense,species,Fungi,645,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Ascomycota,phylum,Fungi,932,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Basidiomycota,phylum,Fungi,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Cercozoa,phylum,Imbricatea,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Chaetoceros,genus,Bacillariophyceae,1809.535007,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Curvibasidium,genus,Fungi,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Cyranomonas australis,species,Imbricatea,28,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Decapoda,order,Decapod,8179.370851,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Dichomitus squalens,species,Fungi,688,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Esquamula lacrimiformis,species,Imbricatea,155,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Gastropoda,class,Gastropoda,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Mamiellaceae,family,Mamiellophyceae,4720,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Mammalia,class,Mammalia,139,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Mataza hastifera,species,Thecofilosea,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Pleurocybella porrigens,species,Fungi,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Polychaeta,class,Polychaeta,5877,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Schizoporaceae,family,Fungi,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Thaumatomonadida,order,Imbricatea,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Tremellales,order,Fungi,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,Triparmaceae,family,Bolidophyceae,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-1-18S,NA,NA,NA,0,e02813,18S,1,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Actinopteri,class,Actinopteri,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Agaricales,order,Fungi,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Agaricomycetes,class,Fungi,19,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Amylocorticium cebennense,species,Fungi,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Ascomycota,phylum,Fungi,34,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Basidiomycota,phylum,Fungi,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Cercozoa,phylum,Imbricatea,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Chaetoceros,genus,Bacillariophyceae,679.3289568,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Curvibasidium,genus,Fungi,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Cyranomonas australis,species,Imbricatea,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Decapoda,order,Decapod,2726.961616,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Dichomitus squalens,species,Fungi,1681,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Gastropoda,class,Gastropoda,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Mamiellaceae,family,Mamiellophyceae,120,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Mammalia,class,Mammalia,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Mataza hastifera,species,Thecofilosea,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Pleurocybella porrigens,species,Fungi,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Polychaeta,class,Polychaeta,5970,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Schizoporaceae,family,Fungi,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Thaumatomonadida,order,Imbricatea,360,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Tremellales,order,Fungi,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,Triparmaceae,family,Bolidophyceae,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02813-2-18S,NA,NA,NA,0,e02813,18S,2,162-26,2022,12,14,Haul 3,sample
+e02814-1-18S,Actinopteri,class,Actinopteri,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Agaricales,order,Fungi,526,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Agaricomycetes,class,Fungi,211,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Amylocorticium cebennense,species,Fungi,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Ascomycota,phylum,Fungi,28,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Basidiomycota,phylum,Fungi,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Cercozoa,phylum,Imbricatea,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Chaetoceros,genus,Bacillariophyceae,219.255124,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Curvibasidium,genus,Fungi,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Cyranomonas australis,species,Imbricatea,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Decapoda,order,Decapod,11254.41789,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Dichomitus squalens,species,Fungi,5762,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Gastropoda,class,Gastropoda,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Mammalia,class,Mammalia,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Mataza hastifera,species,Thecofilosea,127,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Pleurocybella porrigens,species,Fungi,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Polychaeta,class,Polychaeta,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Schizoporaceae,family,Fungi,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Thaumatomonadida,order,Imbricatea,73,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Tremellales,order,Fungi,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,Triparmaceae,family,Bolidophyceae,0,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-1-18S,NA,NA,NA,1851,e02814,18S,1,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Actinopteri,class,Actinopteri,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Agaricales,order,Fungi,4058,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Agaricomycetes,class,Fungi,179,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Amylocorticium cebennense,species,Fungi,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Ascomycota,phylum,Fungi,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Basidiomycota,phylum,Fungi,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Cercozoa,phylum,Imbricatea,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Chaetoceros,genus,Bacillariophyceae,516.92378,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Curvibasidium,genus,Fungi,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Cyranomonas australis,species,Imbricatea,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Decapoda,order,Decapod,14797.01587,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Dichomitus squalens,species,Fungi,1354,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Gastropoda,class,Gastropoda,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Mamiellaceae,family,Mamiellophyceae,469,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Mammalia,class,Mammalia,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Mataza hastifera,species,Thecofilosea,17,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Pleurocybella porrigens,species,Fungi,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Polychaeta,class,Polychaeta,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Schizoporaceae,family,Fungi,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Thaumatomonadida,order,Imbricatea,554,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Tremellales,order,Fungi,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,Triparmaceae,family,Bolidophyceae,0,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02814-2-18S,NA,NA,NA,521,e02814,18S,2,162-53,2022,12,14,Haul 21,sample
+e02815-1-18S,Actinopteri,class,Actinopteri,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Agaricales,order,Fungi,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Agaricomycetes,class,Fungi,44,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Amylocorticium cebennense,species,Fungi,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Ascomycota,phylum,Fungi,85,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Auranticordis quadriverberis,species,Imbricatea,1384,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Basidiomycota,phylum,Fungi,223,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Cercozoa,phylum,Imbricatea,317,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Chaetoceros,genus,Bacillariophyceae,357.560652,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Curvibasidium,genus,Fungi,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Cyranomonas australis,species,Imbricatea,9,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Decapoda,order,Decapod,20031.47937,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Dichomitus squalens,species,Fungi,398,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Esquamula lacrimiformis,species,Imbricatea,502,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Gastropoda,class,Gastropoda,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Mammalia,class,Mammalia,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Mataza hastifera,species,Thecofilosea,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Pleurocybella porrigens,species,Fungi,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Polychaeta,class,Polychaeta,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Schizoporaceae,family,Fungi,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Thaumatomonadida,order,Imbricatea,141,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Tremellales,order,Fungi,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,Triparmaceae,family,Bolidophyceae,0,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-1-18S,NA,NA,NA,1476,e02815,18S,1,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Actinopteri,class,Actinopteri,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Agaricales,order,Fungi,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Agaricomycetes,class,Fungi,719,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Amylocorticium cebennense,species,Fungi,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Ascomycota,phylum,Fungi,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Auranticordis quadriverberis,species,Imbricatea,761,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Basidiomycota,phylum,Fungi,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Cercozoa,phylum,Imbricatea,1165,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Chaetoceros,genus,Bacillariophyceae,235.8662142,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Curvibasidium,genus,Fungi,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Cyranomonas australis,species,Imbricatea,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Decapoda,order,Decapod,17021.77229,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Dichomitus squalens,species,Fungi,1238,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Esquamula lacrimiformis,species,Imbricatea,266,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Gastropoda,class,Gastropoda,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Mammalia,class,Mammalia,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Mataza hastifera,species,Thecofilosea,135,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Pleurocybella porrigens,species,Fungi,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Polychaeta,class,Polychaeta,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Schizoporaceae,family,Fungi,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Strombidium biarmatum,species,Spirotrichea,563,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Thaumatomonadida,order,Imbricatea,245,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Tremellales,order,Fungi,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,Triparmaceae,family,Bolidophyceae,0,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02815-2-18S,NA,NA,NA,459,e02815,18S,2,162-2,2022,12,14,Haul 2,sample
+e02816-1-18S,Actinopteri,class,Actinopteri,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Agaricales,order,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Agaricomycetes,class,Fungi,9,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Amylocorticium cebennense,species,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Ascomycota,phylum,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Auranticordis quadriverberis,species,Imbricatea,65,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Basidiomycota,phylum,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Cercozoa,phylum,Imbricatea,35,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Chaetoceros,genus,Bacillariophyceae,155.573543,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Curvibasidium,genus,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Cyranomonas australis,species,Imbricatea,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Decapoda,order,Decapod,9321.996537,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Dichomitus squalens,species,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Gastropoda,class,Gastropoda,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Mamiellaceae,family,Mamiellophyceae,2,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Mammalia,class,Mammalia,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Mataza hastifera,species,Thecofilosea,19,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Pleurocybella porrigens,species,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Polychaeta,class,Polychaeta,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Schizoporaceae,family,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Strombidium biarmatum,species,Spirotrichea,232,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Thaumatomonadida,order,Imbricatea,214,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Tremellales,order,Fungi,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,Triparmaceae,family,Bolidophyceae,0,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-1-18S,NA,NA,NA,257,e02816,18S,1,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Actinopteri,class,Actinopteri,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Agaricales,order,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Agaricomycetes,class,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Amylocorticium cebennense,species,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Ascomycota,phylum,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Auranticordis quadriverberis,species,Imbricatea,34,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Basidiomycota,phylum,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Cercozoa,phylum,Imbricatea,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Chaetoceros,genus,Bacillariophyceae,42.48548921,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Curvibasidium,genus,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Cyranomonas australis,species,Imbricatea,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Decapoda,order,Decapod,25209.16133,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Dichomitus squalens,species,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Gastropoda,class,Gastropoda,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Mammalia,class,Mammalia,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Mataza hastifera,species,Thecofilosea,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Pleurocybella porrigens,species,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Polychaeta,class,Polychaeta,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Schizoporaceae,family,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Strombidium biarmatum,species,Spirotrichea,85,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Thaumatomonadida,order,Imbricatea,113,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Tremellales,order,Fungi,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,Triparmaceae,family,Bolidophyceae,0,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02816-2-18S,NA,NA,NA,179,e02816,18S,2,162-185,2022,12,14,Haul 151,sample
+e02817-1-18S,Actinopteri,class,Actinopteri,19266,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Agaricales,order,Fungi,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Agaricomycetes,class,Fungi,72,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Amylocorticium cebennense,species,Fungi,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Ascomycota,phylum,Fungi,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Auranticordis quadriverberis,species,Imbricatea,44,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Basidiomycota,phylum,Fungi,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Cercozoa,phylum,Imbricatea,36,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Chaetoceros,genus,Bacillariophyceae,146.2529414,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,23,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Curvibasidium,genus,Fungi,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Cyranomonas australis,species,Imbricatea,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Decapoda,order,Decapod,244.408658,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Dichomitus squalens,species,Fungi,18,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Esquamula lacrimiformis,species,Imbricatea,31,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Gastropoda,class,Gastropoda,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Mamiellaceae,family,Mamiellophyceae,60,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Mammalia,class,Mammalia,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Mataza hastifera,species,Thecofilosea,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Pleurocybella porrigens,species,Fungi,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Polychaeta,class,Polychaeta,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Schizoporaceae,family,Fungi,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Strombidium biarmatum,species,Spirotrichea,21,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Thaumatomonadida,order,Imbricatea,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Tremellales,order,Fungi,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,Triparmaceae,family,Bolidophyceae,0,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-1-18S,NA,NA,NA,75,e02817,18S,1,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Actinopteri,class,Actinopteri,20505,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Agaricales,order,Fungi,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Agaricomycetes,class,Fungi,57,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Amylocorticium cebennense,species,Fungi,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Ascomycota,phylum,Fungi,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Auranticordis quadriverberis,species,Imbricatea,62,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Basidiomycota,phylum,Fungi,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Cercozoa,phylum,Imbricatea,29,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Chaetoceros,genus,Bacillariophyceae,128.0485967,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,40,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Curvibasidium,genus,Fungi,10,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Cyranomonas australis,species,Imbricatea,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Decapoda,order,Decapod,390.5440115,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Dichomitus squalens,species,Fungi,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Esquamula lacrimiformis,species,Imbricatea,36,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Gastropoda,class,Gastropoda,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Mamiellaceae,family,Mamiellophyceae,55,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Mammalia,class,Mammalia,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Mataza hastifera,species,Thecofilosea,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Pleurocybella porrigens,species,Fungi,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Polychaeta,class,Polychaeta,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Schizoporaceae,family,Fungi,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Strombidium biarmatum,species,Spirotrichea,18,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Thaumatomonadida,order,Imbricatea,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Tremellales,order,Fungi,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,Triparmaceae,family,Bolidophyceae,0,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02817-2-18S,NA,NA,NA,83,e02817,18S,2,162-8,2022,12,16,Haul 1,sample
+e02818-1-18S,Actinopteri,class,Actinopteri,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Agaricales,order,Fungi,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Agaricomycetes,class,Fungi,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Amylocorticium cebennense,species,Fungi,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Ascomycota,phylum,Fungi,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Auranticordis quadriverberis,species,Imbricatea,13,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Basidiomycota,phylum,Fungi,18,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Cercozoa,phylum,Imbricatea,106,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Chaetoceros,genus,Bacillariophyceae,58.16062477,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Curvibasidium,genus,Fungi,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Cyranomonas australis,species,Imbricatea,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Decapoda,order,Decapod,12894.24935,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Dichomitus squalens,species,Fungi,62,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Gastropoda,class,Gastropoda,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Mamiellaceae,family,Mamiellophyceae,62,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Mammalia,class,Mammalia,21,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Mataza hastifera,species,Thecofilosea,24,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Pleurocybella porrigens,species,Fungi,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Polychaeta,class,Polychaeta,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Schizoporaceae,family,Fungi,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Thaumatomonadida,order,Imbricatea,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Tremellales,order,Fungi,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,Triparmaceae,family,Bolidophyceae,0,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-1-18S,NA,NA,NA,69,e02818,18S,1,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Actinopteri,class,Actinopteri,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Agaricales,order,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Agaricomycetes,class,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Amylocorticium cebennense,species,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Ascomycota,phylum,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Basidiomycota,phylum,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Cercozoa,phylum,Imbricatea,173,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Chaetoceros,genus,Bacillariophyceae,23.49858473,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,25,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Curvibasidium,genus,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Cyranomonas australis,species,Imbricatea,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Decapoda,order,Decapod,24976.21674,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Dichomitus squalens,species,Fungi,30,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Gastropoda,class,Gastropoda,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Mamiellaceae,family,Mamiellophyceae,84,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Mammalia,class,Mammalia,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Mataza hastifera,species,Thecofilosea,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Pleurocybella porrigens,species,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Polychaeta,class,Polychaeta,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Schizoporaceae,family,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Thaumatomonadida,order,Imbricatea,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Tremellales,order,Fungi,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,Triparmaceae,family,Bolidophyceae,0,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02818-2-18S,NA,NA,NA,93,e02818,18S,2,162-15,2022,12,16,Haul 2,sample
+e02819-1-18S,Actinopteri,class,Actinopteri,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Agaricales,order,Fungi,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Agaricomycetes,class,Fungi,50,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Amylocorticium cebennense,species,Fungi,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Ascomycota,phylum,Fungi,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Auranticordis quadriverberis,species,Imbricatea,65004,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Basidiomycota,phylum,Fungi,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Cercozoa,phylum,Imbricatea,32254,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Chaetoceros,genus,Bacillariophyceae,4163.036081,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,1396,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Curvibasidium,genus,Fungi,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Cyranomonas australis,species,Imbricatea,915,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Decapoda,order,Decapod,369.1708514,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Dichomitus squalens,species,Fungi,10713,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Esquamula lacrimiformis,species,Imbricatea,15768,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Gastropoda,class,Gastropoda,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Mamiellaceae,family,Mamiellophyceae,985,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Mammalia,class,Mammalia,72,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Mataza hastifera,species,Thecofilosea,2060,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Pleurocybella porrigens,species,Fungi,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Polychaeta,class,Polychaeta,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Schizoporaceae,family,Fungi,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Strombidium biarmatum,species,Spirotrichea,3474,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Thaumatomonadida,order,Imbricatea,6949,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,2245,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Tremellales,order,Fungi,0,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,Triparmaceae,family,Bolidophyceae,530,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-1-18S,NA,NA,NA,37447,e02819,18S,1,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Actinopteri,class,Actinopteri,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Agaricales,order,Fungi,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Agaricomycetes,class,Fungi,35,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Amylocorticium cebennense,species,Fungi,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Ascomycota,phylum,Fungi,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Auranticordis quadriverberis,species,Imbricatea,9879,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Basidiomycota,phylum,Fungi,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Cercozoa,phylum,Imbricatea,3542,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Chaetoceros,genus,Bacillariophyceae,299.5502848,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,312,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Curvibasidium,genus,Fungi,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Cyranomonas australis,species,Imbricatea,250,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Decapoda,order,Decapod,20.43549784,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Dichomitus squalens,species,Fungi,1383,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Esquamula lacrimiformis,species,Imbricatea,1340,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Gastropoda,class,Gastropoda,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Mamiellaceae,family,Mamiellophyceae,239,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Mammalia,class,Mammalia,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Mataza hastifera,species,Thecofilosea,478,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Pleurocybella porrigens,species,Fungi,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Polychaeta,class,Polychaeta,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Schizoporaceae,family,Fungi,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Strombidium biarmatum,species,Spirotrichea,524,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Thaumatomonadida,order,Imbricatea,621,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,200,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Tremellales,order,Fungi,0,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,Triparmaceae,family,Bolidophyceae,540,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02819-2-18S,NA,NA,NA,4934,e02819,18S,2,162-9,2022,12,16,Haul 1,sample
+e02820-1-18S,Actinopteri,class,Actinopteri,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Agaricales,order,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Agaricomycetes,class,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Amylocorticium cebennense,species,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Ascomycota,phylum,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Basidiomycota,phylum,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Cercozoa,phylum,Imbricatea,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Chaetoceros,genus,Bacillariophyceae,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Curvibasidium,genus,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Cyranomonas australis,species,Imbricatea,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Decapoda,order,Decapod,23822.22165,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Dichomitus squalens,species,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Gastropoda,class,Gastropoda,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Mammalia,class,Mammalia,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Mataza hastifera,species,Thecofilosea,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Pleurocybella porrigens,species,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Polychaeta,class,Polychaeta,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Schizoporaceae,family,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Thaumatomonadida,order,Imbricatea,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Tremellales,order,Fungi,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,Triparmaceae,family,Bolidophyceae,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-1-18S,NA,NA,NA,0,e02820,18S,1,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Actinopteri,class,Actinopteri,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Agaricales,order,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Agaricomycetes,class,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Amylocorticium cebennense,species,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Ascomycota,phylum,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Basidiomycota,phylum,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Cercozoa,phylum,Imbricatea,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Chaetoceros,genus,Bacillariophyceae,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Curvibasidium,genus,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Cyranomonas australis,species,Imbricatea,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Decapoda,order,Decapod,25113.47648,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Dichomitus squalens,species,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Gastropoda,class,Gastropoda,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Mammalia,class,Mammalia,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Mataza hastifera,species,Thecofilosea,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Pleurocybella porrigens,species,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Polychaeta,class,Polychaeta,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Schizoporaceae,family,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Thaumatomonadida,order,Imbricatea,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Tremellales,order,Fungi,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,Triparmaceae,family,Bolidophyceae,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02820-2-18S,NA,NA,NA,0,e02820,18S,2,162-55,2022,12,16,Haul 23,sample
+e02821-1-18S,Actinopteri,class,Actinopteri,9,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Agaricales,order,Fungi,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Agaricomycetes,class,Fungi,21,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Amylocorticium cebennense,species,Fungi,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Ascomycota,phylum,Fungi,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Auranticordis quadriverberis,species,Imbricatea,83,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Basidiomycota,phylum,Fungi,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Cercozoa,phylum,Imbricatea,71,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Chaetoceros,genus,Bacillariophyceae,1431.301333,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,107,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Curvibasidium,genus,Fungi,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Cyranomonas australis,species,Imbricatea,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Decapoda,order,Decapod,24020.38211,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Dichomitus squalens,species,Fungi,121,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Esquamula lacrimiformis,species,Imbricatea,263,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Gastropoda,class,Gastropoda,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Mamiellaceae,family,Mamiellophyceae,16,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Mammalia,class,Mammalia,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Mataza hastifera,species,Thecofilosea,60,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Pleurocybella porrigens,species,Fungi,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Polychaeta,class,Polychaeta,7,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Schizoporaceae,family,Fungi,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Thaumatomonadida,order,Imbricatea,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,122,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Tremellales,order,Fungi,0,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,Triparmaceae,family,Bolidophyceae,8,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-1-18S,NA,NA,NA,508,e02821,18S,1,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Actinopteri,class,Actinopteri,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Agaricales,order,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Agaricomycetes,class,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Amylocorticium cebennense,species,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Ascomycota,phylum,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Auranticordis quadriverberis,species,Imbricatea,55,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Basidiomycota,phylum,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Cercozoa,phylum,Imbricatea,81,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Chaetoceros,genus,Bacillariophyceae,983.5702009,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,155,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Curvibasidium,genus,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Cyranomonas australis,species,Imbricatea,5,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Decapoda,order,Decapod,22746.51977,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Dichomitus squalens,species,Fungi,114,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Esquamula lacrimiformis,species,Imbricatea,177,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Gastropoda,class,Gastropoda,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Mammalia,class,Mammalia,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Mataza hastifera,species,Thecofilosea,83,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Pleurocybella porrigens,species,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Polychaeta,class,Polychaeta,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Schizoporaceae,family,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Thaumatomonadida,order,Imbricatea,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,96,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Tremellales,order,Fungi,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,Triparmaceae,family,Bolidophyceae,0,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02821-2-18S,NA,NA,NA,382,e02821,18S,2,162-1,2022,12,16,Haul 1,sample
+e02822-1-18S,Actinopteri,class,Actinopteri,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Agaricales,order,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Agaricomycetes,class,Fungi,53,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Amylocorticium cebennense,species,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Ascomycota,phylum,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Basidiomycota,phylum,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Cercozoa,phylum,Imbricatea,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Chaetoceros,genus,Bacillariophyceae,3254.040958,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Curvibasidium,genus,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Cyranomonas australis,species,Imbricatea,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Decapoda,order,Decapod,11137.51169,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Dichomitus squalens,species,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Gastropoda,class,Gastropoda,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Mammalia,class,Mammalia,47,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Mataza hastifera,species,Thecofilosea,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Pleurocybella porrigens,species,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Polychaeta,class,Polychaeta,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Schizoporaceae,family,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Strombidium biarmatum,species,Spirotrichea,815,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Thaumatomonadida,order,Imbricatea,190,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Tremellales,order,Fungi,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,Triparmaceae,family,Bolidophyceae,0,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-1-18S,NA,NA,NA,5193,e02822,18S,1,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Actinopteri,class,Actinopteri,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Agaricales,order,Fungi,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Agaricomycetes,class,Fungi,256,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Amylocorticium cebennense,species,Fungi,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Ascomycota,phylum,Fungi,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Basidiomycota,phylum,Fungi,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Cercozoa,phylum,Imbricatea,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Chaetoceros,genus,Bacillariophyceae,2962.947618,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Curvibasidium,genus,Fungi,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Cyranomonas australis,species,Imbricatea,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Decapoda,order,Decapod,16356.88543,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Dichomitus squalens,species,Fungi,94,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Gastropoda,class,Gastropoda,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Mammalia,class,Mammalia,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Mataza hastifera,species,Thecofilosea,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Pleurocybella porrigens,species,Fungi,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Polychaeta,class,Polychaeta,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Schizoporaceae,family,Fungi,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Strombidium biarmatum,species,Spirotrichea,2357,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Thaumatomonadida,order,Imbricatea,39,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Tremellales,order,Fungi,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,Triparmaceae,family,Bolidophyceae,0,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02822-2-18S,NA,NA,NA,5982,e02822,18S,2,162-199,2022,12,16,Haul 127,sample
+e02823-1-18S,Actinopteri,class,Actinopteri,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Agaricales,order,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Agaricomycetes,class,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Amylocorticium cebennense,species,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Ascomycota,phylum,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Basidiomycota,phylum,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Cercozoa,phylum,Imbricatea,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Chaetoceros,genus,Bacillariophyceae,199.1128125,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Curvibasidium,genus,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Cyranomonas australis,species,Imbricatea,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Decapoda,order,Decapod,28192.58442,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Dichomitus squalens,species,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Gastropoda,class,Gastropoda,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Mammalia,class,Mammalia,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Mataza hastifera,species,Thecofilosea,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Pleurocybella porrigens,species,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Polychaeta,class,Polychaeta,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Schizoporaceae,family,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Thaumatomonadida,order,Imbricatea,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Tremellales,order,Fungi,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,Triparmaceae,family,Bolidophyceae,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-1-18S,NA,NA,NA,0,e02823,18S,1,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Actinopteri,class,Actinopteri,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Agaricales,order,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Agaricomycetes,class,Fungi,7,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Amylocorticium cebennense,species,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Ascomycota,phylum,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Basidiomycota,phylum,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Cercozoa,phylum,Imbricatea,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Chaetoceros,genus,Bacillariophyceae,147.1489616,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Curvibasidium,genus,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Cyranomonas australis,species,Imbricatea,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Decapoda,order,Decapod,27960.73737,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Dichomitus squalens,species,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Gastropoda,class,Gastropoda,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Mammalia,class,Mammalia,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Mataza hastifera,species,Thecofilosea,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Pleurocybella porrigens,species,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Polychaeta,class,Polychaeta,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Schizoporaceae,family,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Thaumatomonadida,order,Imbricatea,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Tremellales,order,Fungi,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,Triparmaceae,family,Bolidophyceae,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02823-2-18S,NA,NA,NA,0,e02823,18S,2,94-65,2022,12,NA,NA,sample
+e02824-1-18S,Actinopteri,class,Actinopteri,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Agaricales,order,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Agaricomycetes,class,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Amylocorticium cebennense,species,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Ascomycota,phylum,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Auranticordis quadriverberis,species,Imbricatea,382,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Basidiomycota,phylum,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Cercozoa,phylum,Imbricatea,153,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Chaetoceros,genus,Bacillariophyceae,5021.19674,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Curvibasidium,genus,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Cyranomonas australis,species,Imbricatea,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Decapoda,order,Decapod,3979.170851,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Dichomitus squalens,species,Fungi,24,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Gastropoda,class,Gastropoda,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Mammalia,class,Mammalia,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Mataza hastifera,species,Thecofilosea,196,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Pleurocybella porrigens,species,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Polychaeta,class,Polychaeta,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Schizoporaceae,family,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Thaumatomonadida,order,Imbricatea,1604,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Tremellales,order,Fungi,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,Triparmaceae,family,Bolidophyceae,0,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-1-18S,NA,NA,NA,8503,e02824,18S,1,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Actinopteri,class,Actinopteri,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Agaricales,order,Fungi,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Agaricomycetes,class,Fungi,671,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Amylocorticium cebennense,species,Fungi,303,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Ascomycota,phylum,Fungi,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Auranticordis quadriverberis,species,Imbricatea,1981,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Basidiomycota,phylum,Fungi,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Cercozoa,phylum,Imbricatea,257,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Chaetoceros,genus,Bacillariophyceae,82.86270163,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Curvibasidium,genus,Fungi,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Cyranomonas australis,species,Imbricatea,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Decapoda,order,Decapod,5647.988745,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Dichomitus squalens,species,Fungi,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Ebria tripartita,species,Ebriophyceae,3673,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Gastropoda,class,Gastropoda,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Mammalia,class,Mammalia,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Mataza hastifera,species,Thecofilosea,49,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Pleurocybella porrigens,species,Fungi,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Polychaeta,class,Polychaeta,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Schizoporaceae,family,Fungi,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Thaumatomonadida,order,Imbricatea,685,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Tremellales,order,Fungi,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,Triparmaceae,family,Bolidophyceae,0,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02824-2-18S,NA,NA,NA,2006,e02824,18S,2,94-75,2022,12,NA,NA,sample
+e02825-1-18S,Actinopteri,class,Actinopteri,2314,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Agaricales,order,Fungi,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Agaricomycetes,class,Fungi,5524,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Amylocorticium cebennense,species,Fungi,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Ascomycota,phylum,Fungi,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Basidiomycota,phylum,Fungi,3357,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Cercozoa,phylum,Imbricatea,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Chaetoceros,genus,Bacillariophyceae,3558.341677,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Curvibasidium,genus,Fungi,10,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Cyranomonas australis,species,Imbricatea,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Decapoda,order,Decapod,16643.3215,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Dichomitus squalens,species,Fungi,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Gastropoda,class,Gastropoda,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Mammalia,class,Mammalia,920,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Mataza hastifera,species,Thecofilosea,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Pleurocybella porrigens,species,Fungi,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Polychaeta,class,Polychaeta,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Schizoporaceae,family,Fungi,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Thaumatomonadida,order,Imbricatea,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Tremellales,order,Fungi,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,Triparmaceae,family,Bolidophyceae,0,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-1-18S,NA,NA,NA,1582,e02825,18S,1,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Actinopteri,class,Actinopteri,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Agaricales,order,Fungi,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Agaricomycetes,class,Fungi,5441,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Amylocorticium cebennense,species,Fungi,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Ascomycota,phylum,Fungi,18,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,331,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Basidiomycota,phylum,Fungi,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Cercozoa,phylum,Imbricatea,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Chaetoceros,genus,Bacillariophyceae,961.7697712,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Curvibasidium,genus,Fungi,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Cyranomonas australis,species,Imbricatea,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Decapoda,order,Decapod,14208.36421,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Dichomitus squalens,species,Fungi,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Ebria tripartita,species,Ebriophyceae,571,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Gastropoda,class,Gastropoda,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Mammalia,class,Mammalia,1253,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Mataza hastifera,species,Thecofilosea,25,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Pleurocybella porrigens,species,Fungi,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Polychaeta,class,Polychaeta,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Schizoporaceae,family,Fungi,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Thaumatomonadida,order,Imbricatea,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Tremellales,order,Fungi,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,Triparmaceae,family,Bolidophyceae,0,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02825-2-18S,NA,NA,NA,599,e02825,18S,2,94-77,2022,12,NA,NA,sample
+e02826-1-18S,Actinopteri,class,Actinopteri,270,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Agaricales,order,Fungi,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Agaricomycetes,class,Fungi,680,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Amylocorticium cebennense,species,Fungi,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Ascomycota,phylum,Fungi,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Basidiomycota,phylum,Fungi,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Cercozoa,phylum,Imbricatea,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Chaetoceros,genus,Bacillariophyceae,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Curvibasidium,genus,Fungi,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Cyranomonas australis,species,Imbricatea,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Decapoda,order,Decapod,23845.13968,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Dichomitus squalens,species,Fungi,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Gastropoda,class,Gastropoda,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Mammalia,class,Mammalia,28,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Mataza hastifera,species,Thecofilosea,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Pleurocybella porrigens,species,Fungi,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Polychaeta,class,Polychaeta,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Schizoporaceae,family,Fungi,704,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Thaumatomonadida,order,Imbricatea,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Tremellales,order,Fungi,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,Triparmaceae,family,Bolidophyceae,0,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-1-18S,NA,NA,NA,1673,e02826,18S,1,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Actinopteri,class,Actinopteri,2153,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Agaricales,order,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Agaricomycetes,class,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Amylocorticium cebennense,species,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Ascomycota,phylum,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Basidiomycota,phylum,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Cercozoa,phylum,Imbricatea,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Chaetoceros,genus,Bacillariophyceae,0.075435665,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Curvibasidium,genus,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Cyranomonas australis,species,Imbricatea,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Decapoda,order,Decapod,26453.42626,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Dichomitus squalens,species,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Gastropoda,class,Gastropoda,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Mammalia,class,Mammalia,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Mataza hastifera,species,Thecofilosea,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Pleurocybella porrigens,species,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Polychaeta,class,Polychaeta,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Schizoporaceae,family,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Thaumatomonadida,order,Imbricatea,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Tremellales,order,Fungi,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,Triparmaceae,family,Bolidophyceae,0,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02826-2-18S,NA,NA,NA,3,e02826,18S,2,NC1,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Actinopteri,class,Actinopteri,51,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Agaricales,order,Fungi,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Agaricomycetes,class,Fungi,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Amylocorticium cebennense,species,Fungi,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Ascomycota,phylum,Fungi,23,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Basidiomycota,phylum,Fungi,214,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Cercozoa,phylum,Imbricatea,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Chaetoceros,genus,Bacillariophyceae,235.4987552,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Curvibasidium,genus,Fungi,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Cyranomonas australis,species,Imbricatea,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Decapoda,order,Decapod,14141.44877,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Dichomitus squalens,species,Fungi,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Gastropoda,class,Gastropoda,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Mammalia,class,Mammalia,1349,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Mataza hastifera,species,Thecofilosea,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Pleurocybella porrigens,species,Fungi,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Polychaeta,class,Polychaeta,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Schizoporaceae,family,Fungi,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Thaumatomonadida,order,Imbricatea,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Tremellales,order,Fungi,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,Triparmaceae,family,Bolidophyceae,0,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-1-18S,NA,NA,NA,1835,e02827,18S,1,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Actinopteri,class,Actinopteri,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Agaricales,order,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Agaricomycetes,class,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Amylocorticium cebennense,species,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Ascomycota,phylum,Fungi,30,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Basidiomycota,phylum,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Cercozoa,phylum,Imbricatea,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Chaetoceros,genus,Bacillariophyceae,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Curvibasidium,genus,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Cyranomonas australis,species,Imbricatea,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Decapoda,order,Decapod,11356.23867,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Dichomitus squalens,species,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Gastropoda,class,Gastropoda,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Mammalia,class,Mammalia,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Mataza hastifera,species,Thecofilosea,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Pleurocybella porrigens,species,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Polychaeta,class,Polychaeta,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Schizoporaceae,family,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Thaumatomonadida,order,Imbricatea,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Tremellales,order,Fungi,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,Triparmaceae,family,Bolidophyceae,0,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02827-2-18S,NA,NA,NA,60,e02827,18S,2,NC2,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Actinopteri,class,Actinopteri,573,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Agaricales,order,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Agaricomycetes,class,Fungi,561,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Amylocorticium cebennense,species,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Ascomycota,phylum,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Basidiomycota,phylum,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Cercozoa,phylum,Imbricatea,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Chaetoceros,genus,Bacillariophyceae,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Curvibasidium,genus,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Cyranomonas australis,species,Imbricatea,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Decapoda,order,Decapod,32192.45022,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Dichomitus squalens,species,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Gastropoda,class,Gastropoda,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Mammalia,class,Mammalia,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Mataza hastifera,species,Thecofilosea,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Pleurocybella porrigens,species,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Polychaeta,class,Polychaeta,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Schizoporaceae,family,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Strombidium biarmatum,species,Spirotrichea,4,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Thaumatomonadida,order,Imbricatea,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Tremellales,order,Fungi,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,Triparmaceae,family,Bolidophyceae,0,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-1-18S,NA,NA,NA,3965,e02828,18S,1,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Actinopteri,class,Actinopteri,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Agaricales,order,Fungi,2267,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Agaricomycetes,class,Fungi,641,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Amylocorticium cebennense,species,Fungi,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Ascomycota,phylum,Fungi,295,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Basidiomycota,phylum,Fungi,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Cercozoa,phylum,Imbricatea,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Chaetoceros,genus,Bacillariophyceae,100.8840842,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Curvibasidium,genus,Fungi,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Cyranomonas australis,species,Imbricatea,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Decapoda,order,Decapod,18776.84791,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Dichomitus squalens,species,Fungi,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Gastropoda,class,Gastropoda,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Mammalia,class,Mammalia,575,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Mataza hastifera,species,Thecofilosea,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Pleurocybella porrigens,species,Fungi,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Polychaeta,class,Polychaeta,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Schizoporaceae,family,Fungi,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Strombidium biarmatum,species,Spirotrichea,36,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Thaumatomonadida,order,Imbricatea,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Tremellales,order,Fungi,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,Triparmaceae,family,Bolidophyceae,0,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02828-2-18S,NA,NA,NA,27,e02828,18S,2,NC3,NA,NA,NA,NA,extraction_blank
+e02829-1-18S,Actinopteri,class,Actinopteri,490,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Agaricales,order,Fungi,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Agaricomycetes,class,Fungi,682,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Amylocorticium cebennense,species,Fungi,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Ascomycota,phylum,Fungi,483,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Basidiomycota,phylum,Fungi,174,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Cercozoa,phylum,Imbricatea,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Chaetoceros,genus,Bacillariophyceae,26075.40709,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Curvibasidium,genus,Fungi,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Cyranomonas australis,species,Imbricatea,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Decapoda,order,Decapod,9285.135642,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Dichomitus squalens,species,Fungi,711,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Ebria tripartita,species,Ebriophyceae,911,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Gastropoda,class,Gastropoda,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Mammalia,class,Mammalia,401,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Mataza hastifera,species,Thecofilosea,674,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Pleurocybella porrigens,species,Fungi,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Polychaeta,class,Polychaeta,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Schizoporaceae,family,Fungi,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Strombidium biarmatum,species,Spirotrichea,190,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Thaumatomonadida,order,Imbricatea,1192,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Tremellales,order,Fungi,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,Triparmaceae,family,Bolidophyceae,0,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-1-18S,NA,NA,NA,4882,e02829,18S,1,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Actinopteri,class,Actinopteri,1495,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Agaricales,order,Fungi,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Agaricomycetes,class,Fungi,204,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Amylocorticium cebennense,species,Fungi,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Ascomycota,phylum,Fungi,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Basidiomycota,phylum,Fungi,233,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Cercozoa,phylum,Imbricatea,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Chaetoceros,genus,Bacillariophyceae,8391.158272,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Curvibasidium,genus,Fungi,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Cyranomonas australis,species,Imbricatea,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Decapoda,order,Decapod,4735.008081,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Dichomitus squalens,species,Fungi,80,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Ebria tripartita,species,Ebriophyceae,600,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Gastropoda,class,Gastropoda,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Mammalia,class,Mammalia,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Mataza hastifera,species,Thecofilosea,571,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Pleurocybella porrigens,species,Fungi,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Polychaeta,class,Polychaeta,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Schizoporaceae,family,Fungi,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Strombidium biarmatum,species,Spirotrichea,68,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Thaumatomonadida,order,Imbricatea,440,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Tremellales,order,Fungi,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,Triparmaceae,family,Bolidophyceae,0,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02829-2-18S,NA,NA,NA,3529,e02829,18S,2,162-199,2022,12,16,Haul 127,sample
+e02830-1-18S,Actinopteri,class,Actinopteri,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Agaricales,order,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Agaricomycetes,class,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Amylocorticium cebennense,species,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Ascomycota,phylum,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Basidiomycota,phylum,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Cercozoa,phylum,Imbricatea,18,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Chaetoceros,genus,Bacillariophyceae,64.76690652,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Curvibasidium,genus,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Cyranomonas australis,species,Imbricatea,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Decapoda,order,Decapod,52175.42684,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Dichomitus squalens,species,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Gastropoda,class,Gastropoda,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Mammalia,class,Mammalia,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Mataza hastifera,species,Thecofilosea,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Pleurocybella porrigens,species,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Polychaeta,class,Polychaeta,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Schizoporaceae,family,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Strombidium biarmatum,species,Spirotrichea,316,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Thaumatomonadida,order,Imbricatea,79,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Tremellales,order,Fungi,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,Triparmaceae,family,Bolidophyceae,0,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02830-1-18S,NA,NA,NA,216,e02830,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Actinopteri,class,Actinopteri,203,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Agaricales,order,Fungi,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Agaricomycetes,class,Fungi,2060,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Amylocorticium cebennense,species,Fungi,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Ascomycota,phylum,Fungi,635,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Basidiomycota,phylum,Fungi,94,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Cercozoa,phylum,Imbricatea,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Chaetoceros,genus,Bacillariophyceae,19368.24384,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Curvibasidium,genus,Fungi,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Cyranomonas australis,species,Imbricatea,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Decapoda,order,Decapod,100850.1247,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Dichomitus squalens,species,Fungi,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Ebria tripartita,species,Ebriophyceae,420,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Gastropoda,class,Gastropoda,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Mammalia,class,Mammalia,1634,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Mataza hastifera,species,Thecofilosea,139,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Pleurocybella porrigens,species,Fungi,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Polychaeta,class,Polychaeta,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Schizoporaceae,family,Fungi,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Strombidium biarmatum,species,Spirotrichea,2602,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Thaumatomonadida,order,Imbricatea,970,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Tremellales,order,Fungi,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,Triparmaceae,family,Bolidophyceae,0,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-1-18S,NA,NA,NA,88697,e02831,18S,1,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Actinopteri,class,Actinopteri,6,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Agaricales,order,Fungi,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Agaricomycetes,class,Fungi,164,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Amylocorticium cebennense,species,Fungi,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Ascomycota,phylum,Fungi,19,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Basidiomycota,phylum,Fungi,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Cercozoa,phylum,Imbricatea,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Chaetoceros,genus,Bacillariophyceae,1966.866453,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Curvibasidium,genus,Fungi,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Cyranomonas australis,species,Imbricatea,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Decapoda,order,Decapod,15906.54199,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Dichomitus squalens,species,Fungi,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Gastropoda,class,Gastropoda,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Mammalia,class,Mammalia,114,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Mataza hastifera,species,Thecofilosea,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Pleurocybella porrigens,species,Fungi,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Polychaeta,class,Polychaeta,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Schizoporaceae,family,Fungi,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Strombidium biarmatum,species,Spirotrichea,184,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Thaumatomonadida,order,Imbricatea,641,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Tremellales,order,Fungi,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,Triparmaceae,family,Bolidophyceae,0,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02831-2-18S,NA,NA,NA,11161,e02831,18S,2,162-185,2022,12,14,Haul 151,sample
+e02832-1-18S,Actinopteri,class,Actinopteri,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Agaricales,order,Fungi,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Agaricomycetes,class,Fungi,209,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Amylocorticium cebennense,species,Fungi,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Ascomycota,phylum,Fungi,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Auranticordis quadriverberis,species,Imbricatea,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Basidiomycota,phylum,Fungi,581,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Cercozoa,phylum,Imbricatea,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Chaetoceros,genus,Bacillariophyceae,14467.51001,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Curvibasidium,genus,Fungi,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Cyranomonas australis,species,Imbricatea,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Decapoda,order,Decapod,8494.033766,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Dichomitus squalens,species,Fungi,793,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Ebria tripartita,species,Ebriophyceae,1684,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Gastropoda,class,Gastropoda,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Mammalia,class,Mammalia,268,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Mataza hastifera,species,Thecofilosea,1123,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Pleurocybella porrigens,species,Fungi,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Polychaeta,class,Polychaeta,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Schizoporaceae,family,Fungi,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Strombidium biarmatum,species,Spirotrichea,457,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Thaumatomonadida,order,Imbricatea,1420,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Tremellales,order,Fungi,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,Triparmaceae,family,Bolidophyceae,0,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-1-18S,NA,NA,NA,2748,e02832,18S,1,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Actinopteri,class,Actinopteri,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Agaricales,order,Fungi,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Agaricomycetes,class,Fungi,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Amylocorticium cebennense,species,Fungi,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Ascomycota,phylum,Fungi,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Auranticordis quadriverberis,species,Imbricatea,25,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Basidiomycota,phylum,Fungi,185,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Cercozoa,phylum,Imbricatea,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Chaetoceros,genus,Bacillariophyceae,11990.68615,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Curvibasidium,genus,Fungi,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Cyranomonas australis,species,Imbricatea,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Decapoda,order,Decapod,7541.01039,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Dichomitus squalens,species,Fungi,228,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Ebria tripartita,species,Ebriophyceae,278,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Gastropoda,class,Gastropoda,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Mammalia,class,Mammalia,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Mataza hastifera,species,Thecofilosea,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Pleurocybella porrigens,species,Fungi,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Polychaeta,class,Polychaeta,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Schizoporaceae,family,Fungi,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Strombidium biarmatum,species,Spirotrichea,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Thaumatomonadida,order,Imbricatea,52,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Tremellales,order,Fungi,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,Triparmaceae,family,Bolidophyceae,0,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02832-2-18S,NA,NA,NA,3177,e02832,18S,2,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Actinopteri,class,Actinopteri,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Agaricales,order,Fungi,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Agaricomycetes,class,Fungi,1064,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Amylocorticium cebennense,species,Fungi,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Ascomycota,phylum,Fungi,23,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Auranticordis quadriverberis,species,Imbricatea,471,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Basidiomycota,phylum,Fungi,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Cercozoa,phylum,Imbricatea,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Chaetoceros,genus,Bacillariophyceae,5299.877673,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Curvibasidium,genus,Fungi,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Cyranomonas australis,species,Imbricatea,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Decapoda,order,Decapod,13670.82078,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Dichomitus squalens,species,Fungi,243,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Ebria tripartita,species,Ebriophyceae,89,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Gastropoda,class,Gastropoda,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Mammalia,class,Mammalia,242,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Mataza hastifera,species,Thecofilosea,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Pleurocybella porrigens,species,Fungi,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Polychaeta,class,Polychaeta,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Schizoporaceae,family,Fungi,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Strombidium biarmatum,species,Spirotrichea,11,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Thaumatomonadida,order,Imbricatea,98,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Tremellales,order,Fungi,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,Triparmaceae,family,Bolidophyceae,0,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-1-18S,NA,NA,NA,1546,e02833,18S,1,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Actinopteri,class,Actinopteri,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Agaricales,order,Fungi,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Agaricomycetes,class,Fungi,1092,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Amylocorticium cebennense,species,Fungi,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Ascomycota,phylum,Fungi,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Auranticordis quadriverberis,species,Imbricatea,176,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Basidiomycota,phylum,Fungi,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Cercozoa,phylum,Imbricatea,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Chaetoceros,genus,Bacillariophyceae,4561.15759,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Curvibasidium,genus,Fungi,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Cyranomonas australis,species,Imbricatea,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Decapoda,order,Decapod,12244.00519,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Dichomitus squalens,species,Fungi,18,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Esquamula lacrimiformis,species,Imbricatea,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Gastropoda,class,Gastropoda,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Mammalia,class,Mammalia,28,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Mataza hastifera,species,Thecofilosea,333,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Pleurocybella porrigens,species,Fungi,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Polychaeta,class,Polychaeta,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Schizoporaceae,family,Fungi,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Strombidium biarmatum,species,Spirotrichea,10,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Thaumatomonadida,order,Imbricatea,148,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Tremellales,order,Fungi,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,Triparmaceae,family,Bolidophyceae,0,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02833-2-18S,NA,NA,NA,1962,e02833,18S,2,94-75,2022,12,NA,NA,sample
+e02834-2-18S,Actinopteri,class,Actinopteri,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Agaricales,order,Fungi,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Agaricomycetes,class,Fungi,158,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Amylocorticium cebennense,species,Fungi,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Ascomycota,phylum,Fungi,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Auranticordis quadriverberis,species,Imbricatea,13625,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Basidiomycota,phylum,Fungi,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Cercozoa,phylum,Imbricatea,8202,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Chaetoceros,genus,Bacillariophyceae,270.9145722,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,248,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Curvibasidium,genus,Fungi,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Cyranomonas australis,species,Imbricatea,802,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Decapoda,order,Decapod,345.5142857,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Dichomitus squalens,species,Fungi,633,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Esquamula lacrimiformis,species,Imbricatea,661,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Gastropoda,class,Gastropoda,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Mamiellaceae,family,Mamiellophyceae,163,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Mammalia,class,Mammalia,9,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Mataza hastifera,species,Thecofilosea,875,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Pleurocybella porrigens,species,Fungi,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Polychaeta,class,Polychaeta,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Schizoporaceae,family,Fungi,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Strombidium biarmatum,species,Spirotrichea,325,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Thaumatomonadida,order,Imbricatea,1494,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Tremellales,order,Fungi,0,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,Triparmaceae,family,Bolidophyceae,22,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02834-2-18S,NA,NA,NA,6836,e02834,18S,2,162-9,2022,12,16,Haul 1,sample
+e02835-1-18S,Actinopteri,class,Actinopteri,2892,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Agaricales,order,Fungi,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Agaricomycetes,class,Fungi,331,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Amylocorticium cebennense,species,Fungi,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Ascomycota,phylum,Fungi,185,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Auranticordis quadriverberis,species,Imbricatea,53,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Basidiomycota,phylum,Fungi,141,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Cercozoa,phylum,Imbricatea,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Chaetoceros,genus,Bacillariophyceae,1858.551853,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Curvibasidium,genus,Fungi,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Cyclotrichium cyclokaryon,species,Litostomatea,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Cyranomonas australis,species,Imbricatea,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Decapoda,order,Decapod,2977.904762,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Dichomitus squalens,species,Fungi,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Ebria tripartita,species,Ebriophyceae,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Esquamula lacrimiformis,species,Imbricatea,7,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Gastropoda,class,Gastropoda,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Mamiellaceae,family,Mamiellophyceae,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Mammalia,class,Mammalia,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Mataza hastifera,species,Thecofilosea,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Pleurocybella porrigens,species,Fungi,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Polychaeta,class,Polychaeta,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Schizoporaceae,family,Fungi,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Strombidium biarmatum,species,Spirotrichea,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Thaumatomonadida,order,Imbricatea,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Tremellales,order,Fungi,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,Triparmaceae,family,Bolidophyceae,0,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-1-18S,NA,NA,NA,1426,e02835,18S,1,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Actinopteri,class,Actinopteri,4469,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Agaricales,order,Fungi,273,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Agaricomycetes,class,Fungi,198,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Amylocorticium cebennense,species,Fungi,227,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Ascomycota,phylum,Fungi,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Ascomycota/Basidiomycota,phylum,Fungi,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Auranticordis quadriverberis,species,Imbricatea,22,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Basidiomycota,phylum,Fungi,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Cercozoa,phylum,Imbricatea,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Chaetoceros,genus,Bacillariophyceae,458.4846025,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Coscinodiscophyceae,class,Coscinodiscophyceae,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Curvibasidium,genus,Fungi,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Cyclotrichium cyclokaryon,species,Litostomatea,3,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Cyranomonas australis,species,Imbricatea,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Decapoda,order,Decapod,2521.620202,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Dichomitus squalens,species,Fungi,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Ebria tripartita,species,Ebriophyceae,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Esquamula lacrimiformis,species,Imbricatea,13,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Gastropoda,class,Gastropoda,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Mamiellaceae,family,Mamiellophyceae,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Mammalia,class,Mammalia,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Mataza hastifera,species,Thecofilosea,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Pleurocybella porrigens,species,Fungi,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Polychaeta,class,Polychaeta,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Schizoporaceae,family,Fungi,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Strombidium biarmatum,species,Spirotrichea,4,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Thaumatomonadida,order,Imbricatea,200,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Tintinnidium cf. primitivum,species,Spirotrichea,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Tremellales,order,Fungi,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,Triparmaceae,family,Bolidophyceae,0,e02835,18S,2,94-75,2022,12,NA,NA,sample
+e02835-2-18S,NA,NA,NA,2011,e02835,18S,2,94-75,2022,12,NA,NA,sample
