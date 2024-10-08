@@ -24,14 +24,15 @@ tidy_FA <- condition %>%
   mutate(vial_ID = str_replace_all(vial_id, "2022-AKK", "162")) %>% #this is goofy, will fix....
   select(-vial_id) %>%
   mutate(vial_id = str_replace_all(vial_ID, "2022-VA", "94")) %>%
-    select(mid_latitude, mid_longitude, lme, vial_id, Diatom_Indicator_percWT, Total_FA_Conc_WWT)
+    select(mid_latitude, mid_longitude, lme, vial_id, Diatom_Indicator_percWT, 
+           Total_FA_Conc_WWT, gear_temperature)
    
     
 #tidy stomach data 
 stomach %>%
   filter(taxon != "Decapoda", #host DNA
          !(alternative_ID %in% c("NC1", "NC2", "NC3"))) %>% #extraction blank
-  select(-collection_month, -collection_day, -extraction_ID, -primer, -PCR_replicate,
+  select(-collection_month, -collection_day, -extraction_ID, -primer,
          -location3, -sample_type) %>%
   rename(vial_id = alternative_ID) %>%
   group_by(Sample_ID) %>%

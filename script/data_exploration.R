@@ -18,21 +18,19 @@ crab_diet <- read.csv("./output/diet_haul_FA_master.csv")
 
 ####################################
 #Diet plots
-  #Note: each sample ID represents a PCR replicate (usually two, sometimes more)
+  #Note: each sample ID is associated with a PCR replicate (usually two, sometimes more)
 
 crab_diet %>%
   ggplot(aes(x=Sample_ID, y=reads, fill=assigned_taxon_class)) +
   geom_bar(stat = "identity") +
   theme_bw() +
-  labs(
-    y = "sequencing reads",
-    x = "sample ID",
-    title = "snow crab stomach")  +
-  theme(
-    axis.text.x = element_text(angle = 90, hjust = 0.95),
+  labs(y = "Sequencing reads", x = "sample ID")  +
+  theme(axis.text.x = element_text(angle = 90, hjust = 0.95),
     legend.position = "right",
     legend.title = element_blank(),
-    legend.text = element_text(size = 6))  
+    legend.text = element_text(size = 6)) +
+  scale_fill_manual(values=as.vector(kelly(n=14))) 
+ggsave("./figures/data exploration/seq_reads.png")
 
 crab_diet %>%
   filter(ReadsPerSample > 1000) %>%
@@ -40,14 +38,14 @@ crab_diet %>%
   geom_bar(stat = "identity") +
   theme_bw() +
   labs(
-    y = "proportion of sequencing reads",
-    x = "Vial ID")  +
+    y = "Proportion of sequencing reads", x = "")  +
   theme(
     axis.text.x = element_text(angle = 90, hjust = 0.95),
     legend.position = "right",
     legend.title = element_blank(),
     legend.text = element_text(size = 6)) +
   scale_fill_manual(values=as.vector(kelly(n=14))) 
+ggsave("./figures/data exploration/prop_reads.png")
 
 ###################
 #Maps 
@@ -56,15 +54,16 @@ crab_diet %>%
 world <- ne_countries(scale = "medium", returnclass = "sf")
 
 crab_diet %>% 
-  group_by(vial_id, mid_latitude, mid_longitude) %>%
-  summarise(n_crab=n()) -> plot
+  distinct(vial_id, mid_latitude, mid_longitude, .keep_all = TRUE) %>%
+  group_by(mid_latitude, mid_longitude) %>% 
+  summarise(n_station = n()) -> plot
 
 ggplot(data = world) +
   geom_sf() +
-  geom_point(data = plot, aes(x = mid_longitude, y = mid_latitude, size=n_crab), color= "light blue")+
+  geom_point(data = plot, aes(x = mid_longitude, y = mid_latitude, size = n_station), color= "blue")+
   coord_sf(xlim = c(-180, -160), ylim = c(56, 66), expand = FALSE) +
   theme_bw() 
-ggsave("./figures/data exploration/n_year.png")
+ggsave("./figures/data exploration/n_station.png")
 
 #point size relative to prop of sequencing reads with diatoms 
 crab_diet %>% 
@@ -76,18 +75,36 @@ ggplot(data = world) +
   geom_point(data = plot2, aes(x = mid_longitude, y = mid_latitude, size=prop_diatom), color= "light blue")+
   coord_sf(xlim = c(-180, -160), ylim = c(56, 66), expand = FALSE) +
   theme_bw() 
+ggsave("./figures/data exploration/prop_diatom.png")
 
-
+############################
+#Relationships b/w variables 
 
 crab_diet %>% 
   group_by(Sample_ID, vial_id, Total_FA_Conc_WWT, Diatom_Indicator_percWT,
            mid_latitude, mid_longitude) %>%
   summarise(prop_diatom = read_prop[assigned_taxon_class=="Bacillariophyceae"]) -> dat
 
+#latitude x proportion of reads with diatoms 
 dat %>% 
   ggplot() +
-  geom_point(aes(prop_diatom, Total_FA_Conc_WWT))
+  geom_point(aes(mid_latitude, prop_diatom)) +
+  labs(y= "Diatom proportion of sequencing reads", x = "Latitude") + 
+  theme_bw()
+ggsave("./figures/data exploration/lat_prop_diatom.png")
 
+#Total FA x proportion of reads with diatoms 
 dat %>% 
   ggplot() +
-  geom_point(aes(prop_diatom, Diatom_Indicator_percWT))
+  geom_point(aes(prop_diatom, Total_FA_Conc_WWT)) +
+  labs(x= "Diatom proportion of sequencing reads", y = "Total Fatty Acids") + 
+  theme_bw()
+ggsave("./figures/data exploration/totalFA_prop_diatom.png")
+
+#Diatom indicator x proportion of reads with diatoms 
+dat %>% 
+  ggplot() +
+  geom_point(aes(prop_diatom, Diatom_Indicator_percWT)) +
+  labs(x= "Diatom proportion of sequencing reads", y = "Diatom Biomarker (% WT)") + 
+  theme_bw()
+ggsave("./figures/data exploration/DiatomFA_prop_diatom.png")
