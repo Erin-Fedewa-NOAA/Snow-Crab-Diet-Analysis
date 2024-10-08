@@ -1,4 +1,4 @@
-#Preliminary Snow Crab DNA Metabarcoding Analyses 
+## Preliminary Snow Crab DNA Metabarcoding Analyses 
 
 Project PIs: Erin Fedewa, Louise Copeman, Wes Larson, Kim Ledger and Diana Baetscher
 
